@@ -21,11 +21,18 @@
   </a>
 </div>
 
+## Success
+- [牛仔俱乐部-努比亚社区 2019-11-15](./nubia)
+
 ## Reference
 [Choo README](https://raw.githubusercontent.com/choojs/choo/master/README.md)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
+
+## Thanks
+QAQ
+- [微信: 悦来客栈的老板](.)
 
 ## P.S.
 若有侵权,转载以及其他各种问题,烦请联系atlednolispe@gmail.com,谢谢!!!
