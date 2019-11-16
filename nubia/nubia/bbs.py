@@ -100,6 +100,7 @@ class Nubia:
 
         最后去除部分与cookies中的acw_sc__v2 (即arg2) 无关的部分代码后为最终的 ultimate_bbs.js
 
+        :param pre_response: requests.Response, 首次请求 'https://bbs.nubia.cn/' 的响应
         :return: None
         """
         arg1: str = self.__parse_arg1_from_pre_request(pre_response)
