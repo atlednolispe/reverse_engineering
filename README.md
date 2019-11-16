@@ -40,9 +40,9 @@ QAQ
 <span align="center">
     <pre>
         <!-- mp weixin -->
-        <a href="http://mp.weixin.qq.com/rr?timestamp=1573802788&src=3&ver=1&signature=2OikRyWJZLA3ts*n-CTg0I8nNwBxmCQt1qBd*rG-WpedXhx*NJ3YTtBQBREkLcIzJA27gEwmzxguBJ8CvThoxOeHeY3-L8dg*XIaZqrbDRg=" align="center">
+        <a href="https://open.weixin.qq.com/qr/code?username=minimal_expression" align="center">
             Thanks for following my wechat!!!
-            <img src="http://mp.weixin.qq.com/rr?timestamp=1573802788&src=3&ver=1&signature=2OikRyWJZLA3ts*n-CTg0I8nNwBxmCQt1qBd*rG-WpedXhx*NJ3YTtBQBREkLcIzJA27gEwmzxguBJ8CvThoxOeHeY3-L8dg*XIaZqrbDRg="
+            <img src="https://open.weixin.qq.com/qr/code?username=minimal_expression"
                 height="150" width="150"
                 alt="微信公众号" />
         </a>
