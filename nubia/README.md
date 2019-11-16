@@ -26,6 +26,7 @@ Out[5]: True
 
 ## 关于成功获取响应内容的详细步骤
 - [nubia.bbs.Nubia](./nubia/bbs.py)
+- [公众号的过程记录](https://mp.weixin.qq.com/s/zHEx7zjNHVzan9n9nhtkGg)
 - [详细参考文章: 来自 悦来客栈的老板 , 十分感谢!!!](https://mp.weixin.qq.com/s/mZ-MBC2KbIlbXIKvamwq7Q)
 
 ## Thanks
